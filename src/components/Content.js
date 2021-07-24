@@ -57,7 +57,7 @@ function Content() {
                 <div className="about">
                     <div className="about-con">
                         <div className="text">
-                            <h3>ACHIEVEMENT</h3>
+                            <h3>REWARD & HORNOR</h3>
                         </div>
                     </div>
                     <div className="about-con2">
@@ -82,7 +82,7 @@ function Content() {
                     <div className="content-r3">
                         <div className="details">
                             <p>Contact</p>
-                            <p><FiMail />  Email: aungice59@gmail.com</p>
+                            <p><FiMail />  Email: kalunyoutanbin7@gmail.com</p>
                             <p><FiPhoneCall />  Tel: 092-7394647</p>
                             <p><FiGithub />  Github: github.com/btylk</p>
                         </div>
