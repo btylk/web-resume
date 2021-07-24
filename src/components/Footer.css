@@ -1,0 +1,16 @@
+.footer-bg {
+    background-color: #0A192F;
+    height: 80px;
+}
+.container {
+    margin: 0 auto;
+}
+.footer-con {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-text {
+    font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", monospace;
+    color: #a8b2d1;
+}

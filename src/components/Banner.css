@@ -1,0 +1,29 @@
+.banner-bg {
+    background-color: #0A192F;
+    overflow: hidden;
+    border-bottom: 20px;
+    border-bottom-color: #53D4BA;
+}
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    
+}
+.banner-con {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.banner-con2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+.banner-text h1 {
+    color: #53D4BA;
+}
+.typingeffect {
+    font-size: 22px;
+    color: white;    
+}
