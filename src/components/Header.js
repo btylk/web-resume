@@ -12,7 +12,7 @@ function Header() {
                     Dev <FiTerminal/> 
                     </div>
                     <div className="resume">
-                        <p>D:\web-resume{'>'} pip install</p>
+                        {/* <p>D:\web-resume{'>'} pip install</p> */}
                         <a class="resume-btn" href= {resume} target="_blank" rel="noopener noreferrer">Resume</a>
                     </div>
                 </div>

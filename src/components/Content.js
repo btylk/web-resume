@@ -7,7 +7,7 @@ import { FiMail, FiGithub, FiPhoneCall } from "react-icons/fi";
 function Content() {
     const my_skills = ['Python', 'Java', 'JavaScript', 'C++', 'HTML', 'CSS']
     const tools = ['React', 'React Native', 'Flask', 'Heroku']
-    const tools2 = ['Cypress', 'Firebase', 'MongoDB', 'Git']
+    const tools2 = ['Cypress', 'Firebase', 'MongoDB', 'Git/Github']
     const interest = ['Machine learning', 'Software testing', 'Swimming', 'Reading']
 
     return (
@@ -20,7 +20,7 @@ function Content() {
                     <div className="content-r">
                         <h4>Hi, my name is</h4>
                         <p>Kalunyou Tanbin</p>
-                        <p-2>I'm a software engineer graduate from prince of songkla university, Bachelor of Computer engineering</p-2>
+                        <p-2>My interest in coding started back in 2012 when I decided to try editing Android OS custom ROM, Fast-forward to today, I'm a software engineer graduate from prince of songkla university, Bachelor of Computer engineering</p-2>
                         <div className="skills">
                             <a>Basic Skills</a>
                             <ul skills>
@@ -57,22 +57,22 @@ function Content() {
                 <div className="about">
                     <div className="about-con">
                         <div className="text">
-                            <h3>REWARD & HORNOR</h3>
+                            <h3>Honors & award</h3>
                         </div>
                     </div>
                     <div className="about-con2">
-                        <p>I've experience in software competition and academic work, the details shown below</p>
-                    </div> 
+                        <p>My graduation project has built a mobile application using react native and API using flask web framework to analyze data in website by applying web scraping technique to get website data, have got an award from software competitions and academic journals on science, technology, and medical topics.</p>
+                    </div>
                 </div>
                 <section className="content-con2">
                     <div className="content-l2">
-                        <Widecard title="National Software Contest" detail="Succeeded in the first-round contest and have the right to compete in the next round (South region)" where="NSC" year="2021" />
+                        <Widecard title="National Software Contest" detail="1st round received funding for project development  and having a chance to compete in the regional round" where="NSC" year="2021" />
                     </div>
                     <div className="content-c2">
-                    <Widecard title="National Software Contest" detail="Received funding for project development without competing in the next round" where="NSC" year="2021" />
+                        <Widecard title="National Software Contest" detail="2nd round received funding for project development without competing in the next round" where="NSC" year="2021" />
                     </div>
                     <div className="content-r2">
-                    <Widecard title="National Conference ECTI-CARD" detail="The article was published in the academic journal ecti-card 2021 from pages 187-190" where="NSC" year="2021" />
+                        <Widecard title="National Conference ECTI-CARD" detail="The article was published in the academic journal ecti-card 2021 from pages 187-190" where="ECTI-CARD" year="2021" />
                     </div>
                 </section>
                 <section className="content-con3">
